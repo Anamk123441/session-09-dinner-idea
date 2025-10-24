@@ -8,8 +8,8 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #fff9f5;
+    color: #fff;
+    background-color: #000;
 }
 
 /* Japanese-inspired theme */
@@ -17,7 +17,7 @@ body {
     --primary-color: #c41e3a; /* Japanese red */
     --secondary-color: #1a1a1a;
     --accent-color: #f4a460; /* Sandy brown */
-    --bg-light: #fff9f5;
+    --bg-light: #000;
 }
 
 /* Navigation styles */
